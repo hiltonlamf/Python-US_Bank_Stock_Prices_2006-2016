@@ -3,4 +3,4 @@ In this data project, I attempt to use Python to understand and visualize the ch
 
 Unfortunately Github is not able to display the interactive visualizations used in this project, which is originally produced on Jypter Notebook.
 
-For full experience, please clone and view it on Jypter notebook or visit http://hiltonlam.com/PythonAnalysis_US_Bank_Stock_2006-2016.html for a HTML display.
+For full experience, please clone and view it on Jypter Notebook or visit http://hiltonlam.com/PythonAnalysis_US_Bank_Stock_2006-2016.html for a HTML display.
